@@ -1,5 +1,5 @@
 
-let cpfDoBandido="123.445.222-45"
+let cpfInvalido="123.445.222-45"
 let cpfDosPassageiros="123.445.222-45"
 let resultadoDaVerdade = cpfInvalido===cpfDosPassageiros
 console.log( "o cpf esta valido ou nao?"+ resultadoDaVerdade)
