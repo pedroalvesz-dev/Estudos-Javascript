@@ -1,7 +1,7 @@
 
 let cpfDoBandido="123.445.222-45"
 let cpfDosPassageiros="123.445.222-45"
-let resultadoDaVerdade = cpfDoBandido===cpfDosPassageiros
+let resultadoDaVerdade = cpfInvalido===cpfDosPassageiros
 console.log( "o cpf esta valido ou nao?"+ resultadoDaVerdade)
 
 let idadeMinima=20
