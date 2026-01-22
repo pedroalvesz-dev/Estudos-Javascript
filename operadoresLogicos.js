@@ -9,5 +9,5 @@ console.log(resultado)
 
 let tempo="sol"
 let item="guarda chuva"
-let resultadoDaPesquisa=!((tempo!=="neve")||(item==="pintinho"))
+let resultadoDaPesquisa=!((tempo!=="neve")||(item==="agua"))
 console.log(resultadoDaPesquisa)
