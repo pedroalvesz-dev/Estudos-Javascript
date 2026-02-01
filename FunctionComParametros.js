@@ -4,7 +4,7 @@ torrar("Pão intregral","João")
 
 function torrar(pao,name){ 
     console.log(" alimento feito usando o " + pao)
-        console.log("quem perdiu esses pães foi o " + name)
+        console.log("quem pediu esses pães foi o " + name)
 }
 //Essa função esta sendo exacutada com parametros com valores definidos a primeira e sem valores definidos
 torrarEpessoaQuePediu()
